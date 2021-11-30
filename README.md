@@ -1,0 +1,11 @@
+<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://feeds.eff.org/howtofixtheinternet">How To Fix The Internet</a> podcast from the Electronic Frontier Foundation.<br>
+
+<img src="https://github.com/leopheard/howtofixtheinternet/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="How To Fix The Internet"><br>
+
+The internet is broken—but it doesn’t have to be. If you’re concerned about how surveillance, online advertising, and automated content moderation are hurting us online and offline, the Electronic Frontier Foundation’s How to Fix the Internet podcast offers a better way forward. <a href="https://www.eff.org">EFF</a> has been defending your rights online for over thirty years and is behind many of the biggest digital rights protections since the invention of the internet. Through curious conversations with some of the leading minds in law and technology, this podcast explores creative solutions to some of today’s biggest tech challenges. Hosted by EFF Executive Director Cindy Cohn and EFF Advisor Danny O’Brien, How to Fix the Internet will help you become deeply informed on vital technology issues as we work to build a better technological future together.<br>
+
+<a href="https://www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
+
+<b>^^^^ To install this addon ^^^^</b>, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the Code > '<a href="https://github.com/leopheard/howtofixtheinternet/archive/refs/heads/master.zip">Download Zip</a>' button (on this page above) to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file. A repository to auto-update or install from is being worked on.<br>
+
+<br><a href="https://www.kodi.tv"><img src="https://github.com/leopheard/Audio-Podcasts/blob/master/resources/media/about--devices.jpg?raw=true">
