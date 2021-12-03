@@ -1,4 +1,4 @@
-<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://feeds.eff.org/howtofixtheinternet">How To Fix The Internet</a> podcast from the Electronic Frontier Foundation.<br>
+<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://feeds.eff.org/howtofixtheinternet">How To Fix The Internet</a> podcast from the <a href="https://www.eff.org">Electronic Frontier Foundation</a>.<br>
 
 <img src="https://github.com/leopheard/howtofixtheinternet/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="How To Fix The Internet"><br>
 
